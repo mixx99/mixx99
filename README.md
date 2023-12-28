@@ -1,4 +1,4 @@
-![Header](https://github.com/iuyfty/iuyfty/blob/main/assets/image1.png)
+<!---![Header](https://github.com/iuyfty/iuyfty/blob/main/assets/image1.png)--->
 
 
 ### Language and tools:
