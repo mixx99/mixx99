@@ -9,7 +9,7 @@
 
 ### Follow me:
 
-[![Static Badge](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9&link=https%3A%2F%2Ft.me%2Fmaxonkarton)]([https://t.me/maxonkarton](https://t.me/maxonkarton))
+[![Static Badge](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/maxonkarton)
 
 
 
